@@ -1,5 +1,6 @@
 // 객체는 생성자 함수를 이용해 정의한다.
 //생성자 함수는 객체의 프로퍼티, 함수 선언, 함수 정의를 포함한다.
+
 function Checking(amount) {
   this.balance = amount; //property
   this.deposit = deposit; // 함수
